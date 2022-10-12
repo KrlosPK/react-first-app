@@ -1,0 +1,22 @@
+.products-section {
+	background-color: var(--container);
+	border-radius: 1rem;
+	margin: 30px auto;
+	min-height: 400px;
+	padding: 24px;
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+}
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	gap: 1rem;
+}
+.products-title {
+	color: var(--text);
+	margin-bottom: 2rem;
+	text-align: center;
+	text-transform: uppercase;
+}

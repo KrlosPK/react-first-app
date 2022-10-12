@@ -1,0 +1,16 @@
+button {
+	background-color: var(--main);
+	border: none;
+	border-radius: 1rem;
+	color: var(--clear);
+	cursor: pointer;
+	font-family: "Montserrat";
+	font-weight: bold;
+	height: 30px;
+	width: 85px;
+}
+button:hover {
+	border: 1px solid var(--main);
+	background-color: var(--clear);
+	color: var(--main);
+}
