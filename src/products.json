@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"name": "Monitor",
+		"price": 320,
+		"discount": 30,
+		"url": "https://picsum.photos/181"
+	},
+	{
+		"id": 2,
+		"name": "CPU",
+		"price": 300,
+		"discount": 20,
+		"url": "https://picsum.photos/180"
+	},
+	{
+		"id": 3,
+		"name": "Teclado",
+		"price": 3000,
+		"discount": 10,
+		"url": "https://picsum.photos/182"
+	},
+	{
+		"id": 4,
+		"name": "Mouse",
+		"price": 900,
+		"discount": 40,
+		"url": "https://picsum.photos/183"
+	}
+]

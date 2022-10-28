@@ -1,0 +1,8 @@
+.heart {
+	color: red;
+	cursor: pointer;
+	transition: scale 300ms ease-in-out;
+}
+.heart:hover {
+	scale: 1.1;
+}

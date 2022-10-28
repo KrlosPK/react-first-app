@@ -2,7 +2,9 @@
 	background-color: var(--card-background);
 	border-radius: 12px;
 	padding: 20px 1rem;
+	position: relative;
 	width: 220px;
+	overflow: hidden;
 }
 .product-img {
 	border-radius: 12px;

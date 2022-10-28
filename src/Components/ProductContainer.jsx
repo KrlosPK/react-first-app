@@ -5,10 +5,6 @@ const ProductContainer = (props) => {
 			<h1 className="products-title">Nuestros productos:</h1>
 			<div className="cards">
 				{props.children}
-				{props.children}
-				{props.children}
-				{props.children}
-				{props.children}
 			</div>
 		</section>
 	);

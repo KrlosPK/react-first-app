@@ -1,12 +1,13 @@
 * {
 	box-sizing: border-box;
-	font-family: "Montserrat";
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+		"Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 	margin: 0;
 	padding: 0;
 }
 :root {
 	--main: #d93636;
-	--secoundary: #d93636;
+	--secondary: #d93636;
 	--clear: #fff;
 	--card-background: #f2f2f0;
 	--text: #403f37;
